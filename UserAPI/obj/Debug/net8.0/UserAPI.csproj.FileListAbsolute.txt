@@ -28,3 +28,9 @@
 /Users/necibecan/RiderProjects/WebApplication1/UserAPI/obj/Debug/net8.0/UserAPI.pdb
 /Users/necibecan/RiderProjects/WebApplication1/UserAPI/obj/Debug/net8.0/UserAPI.genruntimeconfig.cache
 /Users/necibecan/RiderProjects/WebApplication1/UserAPI/obj/Debug/net8.0/ref/UserAPI.dll
+/Users/necibecan/RiderProjects/WebApplication1/UserAPI/obj/Debug/net8.0/UserAPI.sourcelink.json
+/Users/necibecan/RiderProjects/WebApplication1/UserAPI/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/necibecan/RiderProjects/WebApplication1/UserAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/necibecan/RiderProjects/WebApplication1/UserAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/necibecan/RiderProjects/WebApplication1/UserAPI/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/necibecan/RiderProjects/WebApplication1/UserAPI/obj/Debug/net8.0/UserAPI.MvcApplicationPartsAssemblyInfo.cs

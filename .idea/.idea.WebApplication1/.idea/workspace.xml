@@ -8,24 +8,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b809e23-443a-4c75-b956-26311f66b48e" name="Changes" comment="" />
+    <list default="true" id="9b809e23-443a-4c75-b956-26311f66b48e" name="Changes" comment="project files added">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/Controllers/UsersController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/Controllers/UsersController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/UserAPI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/UserAPI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/bin/Debug/net8.0/UserAPI.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/bin/Debug/net8.0/UserAPI.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/bin/Debug/net8.0/UserAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/bin/Debug/net8.0/UserAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/bin/Debug/net8.0/UserAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/bin/Debug/net8.0/UserAPI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/ref/UserAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/ref/UserAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/refint/UserAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/refint/UserAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/obj/UserAPI.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/UserAPI.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserAPI/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2b5oOCy1x9eCYVaD9fCJ2dcPnn9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Launch Settings Profile.WebApplication1: http.executor": "Run",
+    ".NET Launch Settings Profile.WebApplication1: https.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -41,7 +73,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.WebApplication1: http">
+  <component name="RunManager" selected=".NET Launch Settings Profile.WebApplication1: https">
     <configuration name="WebApplication1: http" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/UserAPI/UserAPI.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value="net8.0" />
@@ -72,6 +104,10 @@
         <option name="Build" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue=".NET Launch Settings Profile.WebApplication1: http" />
+      <item itemvalue=".NET Launch Settings Profile.WebApplication1: https" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -82,14 +118,56 @@
       <option name="presentableId" value="Default" />
       <updated>1705514268285</updated>
       <workItem from="1705514270024" duration="24000" />
-      <workItem from="1705590069151" duration="11347000" />
+      <workItem from="1705590069151" duration="13900000" />
     </task>
+    <task id="LOCAL-00001" summary="project files added">
+      <option name="closed" value="true" />
+      <created>1705602460452</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705602460452</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="project files added" />
+    <option name="LAST_COMMIT_MESSAGE" value="project files added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/UserAPI/Controllers/UsersController.cs</url>
+          <line>23</line>
+          <properties documentPath="$PROJECT_DIR$/UserAPI/Controllers/UsersController.cs" initialLine="22" containingFunctionPresentation="Method 'Add'">
+            <startOffsets>
+              <option value="708" />
+            </startOffsets>
+            <endOffsets>
+              <option value="709" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

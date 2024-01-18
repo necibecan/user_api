@@ -11,13 +11,14 @@ namespace UserAPI.Controllers
         private readonly IUserService userService = new UserService(mapper);
         private readonly ISearchService<UserDTO> userSearchService = new UserSearchService(mapper);
 
+        [Route("GetAll")]
         [HttpGet]
         public IActionResult GetAll()
         {
             var users = userService.GetAll();
             return Ok(users);
         }
-
+        [Route("Add")]
         [HttpPost]
         public IActionResult Add([FromBody] UserAddRequestDTO user)
         {
@@ -32,7 +33,7 @@ namespace UserAPI.Controllers
             return CreatedAtAction(nameof(GetById), new { id = createdUser.Id }, createdUser);
         }
 
-        [HttpGet("{id}")]
+        [HttpGet("GetById/{id}")]
         public IActionResult GetById(int id)
         {
             var user = userSearchService.GetById(id);
@@ -43,7 +44,7 @@ namespace UserAPI.Controllers
 
             return Ok(user);
         }        
-        [HttpGet("{name}")]
+        [HttpGet("GetByName/{name}")]
         public IActionResult GetByName(string name)
         {
             var user = userSearchService.GetByName(name);
@@ -54,7 +55,7 @@ namespace UserAPI.Controllers
 
             return Ok(user);
         }         
-        [HttpGet("{email}")]
+        [HttpGet("GetByEmail/{email}")]
         public IActionResult GetByEmail(string email)
         {
             var user = userSearchService.GetByEmail(email);
@@ -66,7 +67,7 @@ namespace UserAPI.Controllers
             return Ok(user);
         }        
         
-        [HttpGet("{age}")]
+        [HttpGet("GetByAge/{age}")]
         public IActionResult GetByAge(int age)
         {
             var users = userSearchService.GetByAge(age);
@@ -78,6 +79,7 @@ namespace UserAPI.Controllers
             return Ok(users);
         }
 
+        [Route("Update")]
         [HttpPut]
         public IActionResult Update([FromBody] UserUpdateRequestDTO user)
         {
@@ -95,7 +97,7 @@ namespace UserAPI.Controllers
             return Ok(user);
         }
 
-        [HttpDelete("{id}")]
+        [HttpDelete("Delete/{id}")]
         public IActionResult Delete(int id)
         {
             var user = userService.Delete(id);

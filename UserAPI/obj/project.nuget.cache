@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "UejpG0IIa1iCQnMgVkH7Tw1l/i92cPSXmTxUF8EYX3RHoVqWpUkUWm1pXVov/v60LvQyvn4JK/+sE7VAZMtCyA==",
+  "dgSpecHash": "JbEO+DEK0he2py35ZpSq4d6omrs7OO2YuNWekDTPvjnYenqDYyXc8auX9FL4523pScO5+MxED7vBjE/LTKhWMw==",
   "success": true,
   "projectFilePath": "/Users/necibecan/RiderProjects/WebApplication1/UserAPI/UserAPI.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,10 @@
     "/Users/necibecan/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
     "/Users/necibecan/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
     "/Users/necibecan/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/necibecan/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/necibecan/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/necibecan/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/necibecan/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512",
     "/Users/necibecan/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
