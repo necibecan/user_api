@@ -8,30 +8,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b809e23-443a-4c75-b956-26311f66b48e" name="Changes" comment="project files added">
+    <list default="true" id="9b809e23-443a-4c75-b956-26311f66b48e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/Controllers/UsersController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/Controllers/UsersController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/UserAPI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/UserAPI.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/bin/Debug/net8.0/UserAPI.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/bin/Debug/net8.0/UserAPI.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/bin/Debug/net8.0/UserAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/bin/Debug/net8.0/UserAPI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/bin/Debug/net8.0/UserAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/bin/Debug/net8.0/UserAPI.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/UserAPI.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/ref/UserAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/ref/UserAPI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/refint/UserAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/Debug/net8.0/refint/UserAPI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/obj/UserAPI.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/UserAPI.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UserAPI/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/UserAPI/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +18,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Users/necibecan/RiderProjects/WebApplication1/UserAPI/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -118,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1705514268285</updated>
       <workItem from="1705514270024" duration="24000" />
-      <workItem from="1705590069151" duration="13900000" />
+      <workItem from="1705590069151" duration="14816000" />
     </task>
     <task id="LOCAL-00001" summary="project files added">
       <option name="closed" value="true" />
@@ -128,7 +109,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705602460452</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="routes fixed, swagger ui added">
+      <option name="closed" value="true" />
+      <created>1705605505791</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705605505791</updated>
+    </task>
+    <task id="LOCAL-00003" summary="swagger files">
+      <option name="closed" value="true" />
+      <created>1705605526312</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1705605526312</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,7 +146,9 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="project files added" />
-    <option name="LAST_COMMIT_MESSAGE" value="project files added" />
+    <MESSAGE value="routes fixed, swagger ui added" />
+    <MESSAGE value="swagger files" />
+    <option name="LAST_COMMIT_MESSAGE" value="swagger files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

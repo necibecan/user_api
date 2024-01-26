@@ -1,0 +1,14 @@
+/Users/necibecan/RiderProjects/CleanCodeOdev/NoCleanCodeProductApp/bin/Debug/net8.0/NoCleanCodeProductApp
+/Users/necibecan/RiderProjects/CleanCodeOdev/NoCleanCodeProductApp/bin/Debug/net8.0/NoCleanCodeProductApp.deps.json
+/Users/necibecan/RiderProjects/CleanCodeOdev/NoCleanCodeProductApp/bin/Debug/net8.0/NoCleanCodeProductApp.runtimeconfig.json
+/Users/necibecan/RiderProjects/CleanCodeOdev/NoCleanCodeProductApp/bin/Debug/net8.0/NoCleanCodeProductApp.dll
+/Users/necibecan/RiderProjects/CleanCodeOdev/NoCleanCodeProductApp/bin/Debug/net8.0/NoCleanCodeProductApp.pdb
+/Users/necibecan/RiderProjects/CleanCodeOdev/NoCleanCodeProductApp/obj/Debug/net8.0/NoCleanCodeProductApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/necibecan/RiderProjects/CleanCodeOdev/NoCleanCodeProductApp/obj/Debug/net8.0/NoCleanCodeProductApp.AssemblyInfoInputs.cache
+/Users/necibecan/RiderProjects/CleanCodeOdev/NoCleanCodeProductApp/obj/Debug/net8.0/NoCleanCodeProductApp.AssemblyInfo.cs
+/Users/necibecan/RiderProjects/CleanCodeOdev/NoCleanCodeProductApp/obj/Debug/net8.0/NoCleanCodeProductApp.csproj.CoreCompileInputs.cache
+/Users/necibecan/RiderProjects/CleanCodeOdev/NoCleanCodeProductApp/obj/Debug/net8.0/NoCleanCodeProductApp.dll
+/Users/necibecan/RiderProjects/CleanCodeOdev/NoCleanCodeProductApp/obj/Debug/net8.0/refint/NoCleanCodeProductApp.dll
+/Users/necibecan/RiderProjects/CleanCodeOdev/NoCleanCodeProductApp/obj/Debug/net8.0/NoCleanCodeProductApp.pdb
+/Users/necibecan/RiderProjects/CleanCodeOdev/NoCleanCodeProductApp/obj/Debug/net8.0/NoCleanCodeProductApp.genruntimeconfig.cache
+/Users/necibecan/RiderProjects/CleanCodeOdev/NoCleanCodeProductApp/obj/Debug/net8.0/ref/NoCleanCodeProductApp.dll
